@@ -84,6 +84,14 @@ IPs recomendados para bloqueio no firewall: 221.181.185.159
 
 The sample log contains synthetic data. Use this tool only on systems and logs you are authorized to analyze. Review any IP before blocking it: shared networks and NAT can cause false positives.
 
+## Author
+
+**Josué Moreira** — Junior SOC Analyst (in training), Blue Team.
+
+- Portfolio: [josuemdea8-pixel.github.io](https://josuemdea8-pixel.github.io)
+- Resume (PDF): [Curriculo_Josue_Moreira_SOC.pdf](https://josuemdea8-pixel.github.io/Curriculo_Josue_Moreira_SOC.pdf)
+- LinkedIn: [josué-moreira](https://www.linkedin.com/in/josu%C3%A9-moreira-8a530043a)
+
 ## License
 
 MIT
